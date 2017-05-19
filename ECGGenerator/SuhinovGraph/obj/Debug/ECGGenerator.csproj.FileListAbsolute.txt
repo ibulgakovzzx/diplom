@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\ECGGenerator\SuhinovGraph\bin\Debug\SuhinovGraph.exe.config
+C:\Users\User\Desktop\ECGGenerator\SuhinovGraph\obj\Debug\SuhinovGraph.exe
+C:\Users\User\Desktop\ECGGenerator\SuhinovGraph\obj\Debug\SuhinovGraph.pdb
+D:\Study\Six_sem\Diploma\ECGGenerator\SuhinovGraph\bin\Debug\SuhinovGraph.exe.config
+D:\Study\Six_sem\Diploma\ECGGenerator\SuhinovGraph\obj\Debug\SuhinovGraph.exe
+D:\Study\Six_sem\Diploma\ECGGenerator\SuhinovGraph\obj\Debug\SuhinovGraph.pdb
+D:\Study\Six_sem\Diploma\ECGGenerator\SuhinovGraph\bin\Debug\SuhinovGraph.exe
+D:\Study\Six_sem\Diploma\ECGGenerator\SuhinovGraph\bin\Debug\SuhinovGraph.pdb
+D:\Study\Six_sem\Diploma\ECGGenerator\SuhinovGraph\obj\Debug\ECGGenerator.csprojResolveAssemblyReference.cache
+D:\Study\Six_sem\Diploma\ECGGenerator\SuhinovGraph\obj\Debug\SuhinovGraph.Form1.resources
+D:\Study\Six_sem\Diploma\ECGGenerator\SuhinovGraph\obj\Debug\SuhinovGraph.Properties.Resources.resources
+D:\Study\Six_sem\Diploma\ECGGenerator\SuhinovGraph\obj\Debug\ECGGenerator.csproj.GenerateResource.Cache

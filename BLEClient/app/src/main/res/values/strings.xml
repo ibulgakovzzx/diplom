@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BLEClient</string>
+    <string name="txt_device_scan">Device Scan</string>
+    <string name="txt_battery_level">Battery level:</string>
+    <string name="txt_unknown_battery_level">Unknown battery level:</string>
+    <string name="txt_devices">Devices</string>
+    <string name="lable_unknown_battery_status">Unknown battery level</string>
+    <string name="lable_normal_battery_lvl">Normal battery level </string>
+    <string name="lable_charging_battery">Charging battery</string>
+    <string name="lable_low_battery_lvl">Low battery level</string>
+    <string name="txt_charging_state">Charging state</string>
+    <string name="txt_unknown_charging">Unknown charging</string>
+    <string name="txt_charging">Charging</string>
+</resources>

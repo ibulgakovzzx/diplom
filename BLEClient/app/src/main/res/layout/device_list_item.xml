@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="#838080">
+        <TextView
+            android:text="Device Status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:padding="10sp"
+            android:id="@+id/device_status"
+            android:layout_below="@+id/device_name"
+            android:textColor="#000"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:text="Device Name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:padding="5sp"
+            android:id="@+id/device_name"
+            android:textColor="#000"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <Switch
+            android:id="@+id/device_switch"
+            android:layout_marginRight="20dp"
+            android:switchMinWidth="40dp"
+            android:layout_alignBottom="@+id/device_status"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="17dp"
+            android:layout_height="40pt"
+            android:checked="false"
+            android:splitTrack="false"
+            android:layout_width="30pt"/>
+</RelativeLayout>
